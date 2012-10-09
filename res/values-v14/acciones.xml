@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acciones">
+        <item>Mira al cielo</item>
+        <item>Se un stalker, mejor no, si usas esta app ya eres un stalker</item>
+        <item>Escribe un correo a tu jef@ diciendole lo que en verdad piensas de él</item>
+        <item>Baila como poseso</item>
+        <item>Mira Facebook, mira tu correo, vuelve a mirar Facebook</item>
+        <item>Consiguete un(a) novi@</item>
+        <item>Toma café</item>
+        <item>Cambia de trabajo</item>
+        <item>Urga en tu nariz</item>
+        <item>Comprate una vida</item>        
+    </string-array>
+    
+</resources>

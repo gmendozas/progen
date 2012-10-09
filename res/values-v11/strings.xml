@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ProGen</string>
+    <string name="menu_settings">Acerca de</string>
+    <string name="title_activity_pro_gen">ProGen</string>
+    <string name="txtAccionDefault">[Aqui te decimos que hacer]</string>
+    <string name="txtBoton">¿Qué hago?</string>
+
+</resources>
